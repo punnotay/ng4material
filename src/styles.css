@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
+
+.spacer {
+  flex: 1 1 auto;
+}
+
+.red-color {
+  color: red;
+}
+
+.mat-slider-horizontal {
+  width: 100%;
+}
+
+label {
+  font-weight: bold;
+  margin: 1.5em 0;
+  display: blobk;
+}
+#page-padding {
+  padding: 1 1.5em 1.5em 1.5em;
+}
